@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\Yazılım\Repository\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\Yazılım\Repository\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\Yazılım\Repository\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\Yazılım\Repository\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\Yazılım\Repository\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
